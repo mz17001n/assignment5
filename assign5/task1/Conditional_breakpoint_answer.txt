@@ -1,0 +1,1 @@
+The value of sum would be 169071 and you get this by adding up each iteration of start up to 582.

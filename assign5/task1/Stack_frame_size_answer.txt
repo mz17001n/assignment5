@@ -1,0 +1,1 @@
+The stack frame size is 40 because the difference between the hex values is 40.
